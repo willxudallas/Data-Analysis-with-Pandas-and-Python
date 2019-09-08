@@ -2,7 +2,7 @@
 
 This repo is a memo of my data analysis with Pandas in Python. All csv files are data used for practice and .py files are all the coding files.
 
-## Here are what python files include:
+## Here are what python files includes:
 
 1.**Series** - Series atrributes/ Parameters and Arguments/ Sort by values or index/ .apply() .map()
 
